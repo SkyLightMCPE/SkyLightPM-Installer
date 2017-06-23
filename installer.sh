@@ -1,0 +1,1 @@
+apt-get install git && git clone --recursive https://github.com/SkyLightMCPE/SkyLightPM.git && cd SkyLightPM && clear && wget samy.3x.ro/php-bin.tar.gz && clear && tar zxf php-bin.tar.gz && clear && rm -rf php-bin.tar.gz && clear && echo "Type cd SkyLightPM then just type ./start.sh"
